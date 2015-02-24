@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kevin/Documents/work/neu/cs5520spring15/MADParseSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/kevin/Documents/work/neu/cs5520spring15/MADParseSample/app/build/intermediates/pre-dexed/debug/classes-30c4162af05fc16d035fc0635a6215e5b4691e0d.jar" />
+    </item>
+    <item
+        jar="/Users/kevin/Documents/work/neu/cs5520spring15/MADParseSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/kevin/Documents/work/neu/cs5520spring15/MADParseSample/app/build/intermediates/pre-dexed/debug/classes-6306861c7fd8fe4c00465deb94cd58cf904eeeea.jar" />
+    </item>
+    <item
+        jar="/Users/kevin/Documents/work/neu/cs5520spring15/MADParseSample/app/libs/Parse-1.8.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c2cb0bfe37cbefd855b6faa3c9a5be833aba7300">
+        <dex dex="/Users/kevin/Documents/work/neu/cs5520spring15/MADParseSample/app/build/intermediates/pre-dexed/debug/Parse-1.8.2-6b9f74488c2dd1ce24fbcdab5cb840251fd7af83.jar" />
+    </item>
+    <item
+        jar="/Users/kevin/develop_source/android-sdks/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/kevin/Documents/work/neu/cs5520spring15/MADParseSample/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-14462eef115f2623fc916a3fece090ebcb3bd894.jar" />
+    </item>
+    <item
+        jar="/Users/kevin/Documents/work/neu/cs5520spring15/MADParseSample/app/libs/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/kevin/Documents/work/neu/cs5520spring15/MADParseSample/app/build/intermediates/pre-dexed/debug/gson-2.3.1-968d0502d8fd2175460d2f27d9f6f9b5715d9f26.jar" />
+    </item>
+    <item
+        jar="/Users/kevin/Documents/work/neu/cs5520spring15/MADParseSample/app/libs/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/kevin/Documents/work/neu/cs5520spring15/MADParseSample/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-083ab3e15db11d180d0ba62fb4054094266ff511.jar" />
+    </item>
+    <item
+        jar="/Users/kevin/Documents/work/neu/cs5520spring15/MADParseSample/app/libs/ParseCrashReporting-1.8.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ccf9e90414e7bb2cf09f4d7c77c42f70c690e118">
+        <dex dex="/Users/kevin/Documents/work/neu/cs5520spring15/MADParseSample/app/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.8.2-8a288c50bf6afcadcaf7a6789b23950bfe18ddcc.jar" />
+    </item>
+    <item
+        jar="/Users/kevin/Documents/work/neu/cs5520spring15/MADParseSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/kevin/Documents/work/neu/cs5520spring15/MADParseSample/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-6939f951997b2b9e21a4d6ca4d5cfe5d77937bce.jar" />
+    </item>
+
+</items>

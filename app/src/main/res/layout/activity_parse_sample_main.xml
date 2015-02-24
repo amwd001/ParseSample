@@ -1,0 +1,66 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    style="@style/ActivityBaseBackground"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="10dip">
+
+        <EditText
+            android:id="@+id/et_cognito_dev_auth_sample_key"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="key..." />
+
+        <EditText
+            android:id="@+id/et_cognito_dev_auth_sample_value"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="value..." />
+
+        <Button
+            android:id="@+id/btn_cognito_dev_auth_sample_sync"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Sync" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dip"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:text="Key/Value Pairs"
+            android:gravity="center"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btn_cognito_dev_auth_sample_refresh"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Refresh"
+            android:gravity="center" />
+
+    </LinearLayout>
+
+    <ListView
+        android:layout_marginTop="20dip"
+        android:layout_marginBottom="20dip"
+        android:id="@+id/lv_cognito_dev_auth_sample"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

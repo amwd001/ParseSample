@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    style="@style/ActivityBaseBackground"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_item_cognito_key"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:layout_weight="1"
+        android:hint="key..."
+        android:gravity="left|center_vertical" />
+
+    <TextView
+        android:id="@+id/tv_item_cognito_value"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:layout_weight="1"
+        android:hint="value..."
+        android:gravity="left|center_horizontal" />
+</LinearLayout>
